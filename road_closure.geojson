@@ -1,0 +1,1270 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Caloocan",
+                "notes": "Not verified",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Pcp 3 - Phase 10 Caloocan And Bulacan Bridge"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.03044600000,
+                    14.78428300000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Marikina",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Panorama St., Cor Ignatius St., Brgy Concepcion Dos"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.12303300000,
+                    14.63805900000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Paranaque",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "West Service Road In Front Of Robinson, Brgy Merville"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.03834400000,
+                    14.50011000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Muntinlupa",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "In Front Petron Gas Station (Southbound), Alabang Viaduct, Muntinlupa City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.04563500000,
+                    14.41453500000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Valenzuela",
+                "notes": "Not verified",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Lingunan Maryland Subd. Exit To Meycauyan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98489700000,
+                    14.72211200000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Caloocan",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Pcp 4 Area  - Quirino Highway Cor. Malaria Rd Boundary Of Caloocan And Bulacan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.08029700000,
+                    14.76916300000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Paranaque",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Canaynay Ave In Front Of Caltex Brgy San Dionisio"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99979500000,
+                    14.47389900000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Valenzuela",
+                "notes": "Not verified",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Lawang Bato Emergency Exit To Nlex"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98573800000,
+                    14.72322600000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Marikina",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Olive Ext Footbridge, Concepcion Dos (To Antipolo)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.12153100000,
+                    14.63697400000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Pasig",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "West Bank Road, Brgy. Maybunga (To Taytay)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.09708100000,
+                    14.57815300000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Paranaque",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "C5 Road Corner Kaingin Road"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00035100000,
+                    14.49624500000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Paranaque",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Macapagal Blvd. Cor. Pacific Ave"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98769600000,
+                    14.50589600000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Caloocan",
+                "notes": "Not verified",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Pcp 6 � Tierra Nova Subd 3 Boundary Of Caloocan And Meycauyan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99810400000,
+                    14.75820300000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Pasig",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Green Park Gate Felix Ave Dela Paz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.10205100000,
+                    14.61530300000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Las Pinas",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Zapote Viaduct, Brgy. Zapote, Las Pi�as City (Las Pi�as City And Cavite Boundary)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96833000000,
+                    14.46529200000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Muntinlupa",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Muntinlupa-Las Piñas Boundary, Alabang-Zapote Road, Brgy Ayala Alabang, Muntinlupa City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01874300000,
+                    14.42852300000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Valenzuela",
+                "notes": "Assumed alng Panghulo Road",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Wawang Pulo Boundary Of Obando Bulacan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95144900000,
+                    14.69232500000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Caloocan",
+                "notes": "Not verified",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Pcp 6 Bankers Vill. Gate 3 Boundary Of Caloocan And Meycauyan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02416900000,
+                    14.76514900000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Marikina",
+                "notes": "Not verified",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "San Miguel Phase 3 Brgy Fortune"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.13378400000,
+                    14.65403400000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Paranaque",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Pnr Bicutan Interchange"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.04602600000,
+                    14.48728700000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Muntinlupa",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Sucat-Taguig Boundary, Dr. A Bunyi St, Brgy Sucat, Muntinlupa City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.05612600000,
+                    14.46632800000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Valenzuela",
+                "notes": "Not verified",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Viente Reales Skyline Exit 10 Meycauyan, Bulacan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97030700000,
+                    14.71342800000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Paranaque",
+                "notes": "Not verified",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Sucat Interchange"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.04549900000,
+                    14.45368300000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Muntinlupa",
+                "notes": "Not verified",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Biazon Road Corner Mcx Road, Brgy Poblacion, Muntinlupa City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02317000000,
+                    14.37712900000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Malabon",
+                "notes": "Not verified",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Panghulo Road Malabon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95396400000,
+                    14.68919000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Pasig",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "A. Sandoval Corner Eusebio Ave, Brgy. Pinagbuhatan (To Taytay)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.10611800000,
+                    14.54378500000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Marikina",
+                "notes": "Not verified",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Armscor Ave. Cor Sampaguita St. Fortune (To San Mateo)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.12663200000,
+                    14.66526600000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Paranaque",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Bradco Ave Corner Diokno Ave, Brgy Tambo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98472100000,
+                    14.52866400000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Muntinlupa",
+                "notes": "Not verified; Is this along the expressway",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Tunasan-San Pedro Boundary, Brgy Tunasan, Muntinlupa City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.05037774113,
+                    14.36906590940
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Caloocan",
+                "notes": "Not verified",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Pcp 6 Gubat Sa Siudad Boundary Of Caloocan And Meycauyan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01728500000,
+                    14.76034900000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Marikina",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Katipunan St., Cor Tangerine St., Concepcion Dos"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.10888300000,
+                    14.63723400000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Las Pinas",
+                "notes": "Not verified",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Alng Canaynay Ave. Manuyo Dos, Las Pi�as City (Las Pi�as City And Para�aque Boundary)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99635300000,
+                    14.46643600000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Muntinlupa",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "In Front Of Police Outpost, Alng Investment Drive Corner Commerce Avenue, Brgy Ayala Alabang, Muntinlupa City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02388400000,
+                    14.42350100000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Valenzuela",
+                "notes": "Not verified",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Nlex Lingunan Exit Going To Valenzuela"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99238400000,
+                    14.70799100000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Caloocan",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Pcp 3 Phase 7C Dela Costa Homes Boundary Of Caloocan And Muson Bulacan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.08049300000,
+                    14.76895200000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Marikina",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Champaca St., Cor Ponte Verde Drive Brgy Fortune"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.12973000000,
+                    14.65161900000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Paranaque",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Doña Soledad Ave Near Skyway Entrance/Exit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.03930900000,
+                    14.48489700000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Valenzuela",
+                "notes": "Not verified",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Viente Reales Tugatog Exit To Meycauyan, Bulacan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96082700000,
+                    14.72638000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Marikina",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Sumulong Hi- Way Cor Katipunan Access Road , Sto Nino (To Antipolo)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.10848400000,
+                    14.63366300000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Paranaque",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Quirino Ave Corner Victor Medina, Brgy San Dionisio"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98780100000,
+                    14.49211700000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Muntinlupa",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Slex Tollgate Exit (Westbound), East Service Road, Brgy Alabang, Muntinlupa City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.04573200000,
+                    14.42212700000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Valenzuela",
+                "notes": "Not verified",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Punturin Boundary Of Libtong Meycauyan (Primary)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98134900000,
+                    14.73902300000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Pasig",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Greenwood Ave., Pinagbuhatan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.09801100000,
+                    14.56241800000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Marikina",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Delos Santos Ave. Monterey Hills, Fortune (To San Mateo)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.13396200000,
+                    14.65382000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Paranaque",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Naia Avenue Near Pascor Drive Brgy. Sto Ni�o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00096600000,
+                    14.50621800000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Quezon City",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Payatas Road, Quezon City � Rodriguez Rizal Boundary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.11953700000,
+                    14.72923600000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Caloocan",
+                "notes": "Not verified",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Pcp 6 � Tierra Nova Subd 1 Boundary Of Caloocan And Meycauyan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01081900000,
+                    14.75767000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Marikina",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Chesnut St., Cor Gospel St., Brgy San Roque"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.10386300000,
+                    14.62604500000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Las Pinas",
+                "notes": "Not verified",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Alng C5 Road Extension, Manuyo Uno, Las Pi�as City (Las Pi�as City And Para�aque Boundary)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98599700000,
+                    14.47939800000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Valenzuela",
+                "notes": "Alng NLEX?",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Lawang Bato Nlex Overpass Near Memorial Gardens"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98107800000,
+                    14.73024700000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Muntinlupa",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Major J. Posadas Avenue Corner West Service Road, Brgy Sucat, Muntinlupa City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.04507900000,
+                    14.45631900000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Caloocan",
+                "notes": "Not verified; Assumed at intersection of Langit Rd and Old Zabarte",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Pcp 3 - Phase 9 Boundary Of Evergreen Vill. Brgy. Gaya-Gaya Sj Bulacan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.04510400000,
+                    14.77691300000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Paranaque",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "West Service Road Corner Marcelo Ave., Marcelo Green"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.04503000000,
+                    14.47588500000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Pasig",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Eusebio Ave Cor C6 Road Brgy. Pinagbuhatan (To Taytay)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.10422400000,
+                    14.53477800000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Marikina",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Marcos Highway Infront Of Buenviaje Bldg Brgy San Roque"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.10357200000,
+                    14.62094000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Paranaque",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "C5 Road Boundary Of Las Pi�as And Para�aque"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98684100000,
+                    14.48106800000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Muntinlupa",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Tunasan-Cuyab Boundary, Arandia St, Brgy Tunasan, Muntinlupa City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.05393400000,
+                    14.37615300000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Caloocan",
+                "notes": "Not verified",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Pcp 6 � Shelterville Brgy 171 Boundary Of Caloocan And Meycauyan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01067000000,
+                    14.75769300000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Pasig",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "R Thadeus St., Mrv, Sta Lucia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.10687000000,
+                    14.57878400000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Las Pinas",
+                "notes": "Not verified",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Riverdrive, Bfrv Brgy. Talon Dos, Las Pi�as City (Las Pi�as City And Cavite Boundary)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99089100000,
+                    14.43789000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Quezon City",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "San Mateo Road Quezon City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.10925000000,
+                    14.67990400000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Paranaque",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Roxas Blvd Near Footbridge Brgy Baclaran"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99299500000,
+                    14.53296600000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Caloocan",
+                "notes": "Not verified",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Pcp 6 � Tierra Nova Subd 2 Boundary Of Caloocan And Meycauyan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00839600000,
+                    14.75672800000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Las Pinas",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Alng Padre Diego Cera, Ave. Manuyo Uno, Las Pi�as City (Las Pi�as City And Para�aque Boundary)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98517300000,
+                    14.48579900000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Marikina",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Panorama St., Cor Waco St., Brgy Concepcion Dos"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.12723700000,
+                    14.63925900000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Muntinlupa",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "In Front Of Total Gas Station, Don Jesus Blvd Corner West Service Road, Brgy Cupang, Muntinlupa City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.04519100000,
+                    14.43408400000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Valenzuela",
+                "notes": "Not verified",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Lingunan Ciudad Grande Exit To Meycauyan, Bulacan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97508400000,
+                    14.72475000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Valenzuela",
+                "notes": "Not verified",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Nlex Harborlink (Mindanao Ave Mm Exit)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97637300000,
+                    14.64501600000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Pasig",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Tramo Rd., Sta Lucia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.10095900000,
+                    14.58464500000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Marikina",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Lilac St Cor Olive St. Concepcion Dos (To Antipolo)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.12158300000,
+                    14.63705900000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Muntinlupa",
+                "notes": "Not verified",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "In Front Of Parco Bello, Victoria Homes, Brgy Tunasan, Muntinlupa City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00970100000,
+                    14.35354700000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Paranaque",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Pacific Ave Corner Macapagal Blvd Brgy Don Galo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.98772800000,
+                    14.50584500000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Malabon",
+                "notes": "Not verified",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Don Basilio Blvd Brgy. Dampalit Malabon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.94564600000,
+                    14.68893500000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Las Pinas",
+                "notes": "Not verified",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Marcos Alvarez Avenue, Talon Singko, Las Pi�as City (Las Pi�as City And Cavite Boundary)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00154200000,
+                    14.42571900000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Pasig",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Kaginhawaan St., Cor Felix Ave., Maggahan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.10528100000,
+                    14.60477000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Paranaque",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Airport Road In Front Of Ucpb Brgy Baclaran"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99777200000,
+                    14.52732700000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Valenzuela",
+                "notes": "Assumed nera Puregold Pase de Blas",
+                "military": "checkpoint",
+                "source:name": "UPRI Bioinformatics",
+                "description": "Nlex Paso De Blas Entrance"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99342000000,
+                    14.70877300000
+                ]
+            }
+        }
+    ]
+}
