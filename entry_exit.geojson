@@ -1,0 +1,172 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Pasig",
+                "type": "EntryExit",
+                "description": "Ortigas Ave Ext. Brgy. Sta Lucia (To Antipolo/Taytay)",
+                "source:name": "UPRI Bioninformatics"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.10652100000,
+                    14.58824000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Muntinlupa",
+                "notes": "Assumed near the bridge",
+                "type": "EntryExit",
+                "description": "Susana Heights",
+                "source:name": "UPRI Bioninformatics"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.03795100000,
+                    14.37362300000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Valenzuela",
+                "notes": "Not verified",
+                "type": "EntryExit",
+                "description": "Mc Arthur Highway Malanday Boundary Of Valenzuela And Meycauyan (Exit)",
+                "source:name": "UPRI Bioninformatics"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.95862400000,
+                    14.72097700000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Valenzuela",
+                "notes": "Not verified",
+                "type": "EntryExit",
+                "description": "Nlex (Entrance)",
+                "source:name": "UPRI Bioninformatics"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96755700000,
+                    14.76861400000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Pasig",
+                "type": "EntryExit",
+                "description": "East Bank Road, Brgy. Sta Lucia (To Taytay)",
+                "source:name": "UPRI Bioninformatics"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.09776100000,
+                    14.58163700000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Marikina",
+                "type": "EntryExit",
+                "description": "Pambuli St., Cor Marcos Highway (U-Turn) Brgy San Roque",
+                "source:name": "UPRI Bioninformatics"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.10475100000,
+                    14.62115400000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Marikina",
+                "type": "EntryExit",
+                "description": "Makabayan St., Cor Jp Rizal Brgy Nangka",
+                "source:name": "UPRI Bioninformatics"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.10929100000,
+                    14.67292600000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Las Pinas",
+                "notes": "Not verified",
+                "type": "EntryExit",
+                "description": "Zapote Road",
+                "source:name": "UPRI Bioninformatics"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00099800000,
+                    14.44050100000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Paranaque",
+                "type": "EntryExit",
+                "description": "Roxas Blvd Cor. Mia Road",
+                "source:name": "UPRI Bioninformatics"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99332200000,
+                    14.51745200000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Las Pinas",
+                "notes": "Not verified",
+                "type": "EntryExit",
+                "description": "Daang Hari",
+                "source:name": "UPRI Bioninformatics"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01147500000,
+                    14.39839300000
+                ]
+            }
+        }
+    ]
+}
